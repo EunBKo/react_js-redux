@@ -1,4 +1,4 @@
-# Base : Getting Started with Create React App with Toolkit
+# Base : Getting Started with Create React App with Toolkit (clone test)
 
 ## 1. 환경설정
 
